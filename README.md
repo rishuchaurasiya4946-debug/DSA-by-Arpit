@@ -6,8 +6,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0050-powx-n) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0050-powx-n) |
+## Array
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
