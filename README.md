@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1672-richest-customer-wealth](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/1672-richest-customer-wealth) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
 |  |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0349-intersection-of-two-arrays) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
