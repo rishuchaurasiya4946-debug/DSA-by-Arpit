@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0046-permutations) |
+| [0088-merge-sorted-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0540-single-element-in-a-sorted-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
