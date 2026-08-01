@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0046-permutations) |
 | [0349-intersection-of-two-arrays](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0540-single-element-in-a-sorted-array) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/1672-richest-customer-wealth) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
