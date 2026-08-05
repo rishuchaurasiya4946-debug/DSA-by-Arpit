@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
