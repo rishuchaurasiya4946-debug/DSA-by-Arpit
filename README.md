@@ -93,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
