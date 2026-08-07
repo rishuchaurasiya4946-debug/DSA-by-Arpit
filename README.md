@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0344-reverse-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0434-number-of-segments-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
