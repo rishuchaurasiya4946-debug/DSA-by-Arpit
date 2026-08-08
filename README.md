@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0567-permutation-in-string) |
 | [3731-find-missing-elements](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0567-permutation-in-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0344-reverse-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0434-number-of-segments-in-a-string) |
+| [0567-permutation-in-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0584-find-customer-referee) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
