@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/1672-richest-customer-wealth) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0567-permutation-in-string) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
