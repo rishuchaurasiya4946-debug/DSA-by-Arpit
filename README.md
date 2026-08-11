@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0342-power-of-four) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0137-single-number-ii) |
+| [0189-rotate-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0540-single-element-in-a-sorted-array) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0392-is-subsequence) |
