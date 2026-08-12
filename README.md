@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0349-intersection-of-two-arrays) |
@@ -126,5 +127,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
