@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0342-power-of-four) |
 ## Array
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0287-find-the-duplicate-number) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
