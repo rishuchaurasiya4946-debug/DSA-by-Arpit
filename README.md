@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/1672-richest-customer-wealth) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Database
 |  |
 | ------- |
