@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0567-permutation-in-string) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0287-find-the-duplicate-number) |
@@ -159,11 +161,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
