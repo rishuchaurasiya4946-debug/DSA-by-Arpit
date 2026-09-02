@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0567-permutation-in-string) |
 | [2549-count-distinct-numbers-on-board](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/2549-count-distinct-numbers-on-board) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
