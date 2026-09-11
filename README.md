@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0342-power-of-four) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/2549-count-distinct-numbers-on-board) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3875-construct-uniform-parity-array-i) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/2549-count-distinct-numbers-on-board) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0901-online-stock-span) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
