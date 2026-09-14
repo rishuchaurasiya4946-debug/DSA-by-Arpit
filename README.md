@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0342-power-of-four) |
+| [0836-rectangle-overlap](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0836-rectangle-overlap) |
 | [2549-count-distinct-numbers-on-board](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/2549-count-distinct-numbers-on-board) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3875-construct-uniform-parity-array-i) |
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
