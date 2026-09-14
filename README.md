@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0137-single-number-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0287-find-the-duplicate-number) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0349-intersection-of-two-arrays) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0344-reverse-string) |
