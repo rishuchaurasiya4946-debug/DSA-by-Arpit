@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2549-count-distinct-numbers-on-board](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/2549-count-distinct-numbers-on-board) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3498-reverse-degree-of-a-string) |
 ## Database
 |  |
 | ------- |
