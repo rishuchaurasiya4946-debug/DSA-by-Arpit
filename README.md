@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/1672-richest-customer-wealth) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2549-count-distinct-numbers-on-board](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/2549-count-distinct-numbers-on-board) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3483-unique-3-digit-even-numbers) |
@@ -248,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 <!---LeetCode Topics End-->
