@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0185-department-top-three-salaries) |
 | [0584-find-customer-referee](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0584-find-customer-referee) |
 ## Sliding Window
 |  |
