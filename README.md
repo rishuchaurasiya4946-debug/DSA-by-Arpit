@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0567-permutation-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3498-reverse-degree-of-a-string) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
