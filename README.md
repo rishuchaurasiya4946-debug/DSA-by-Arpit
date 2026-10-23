@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0896-monotonic-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0735-asteroid-collision) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2549-count-distinct-numbers-on-board](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/2549-count-distinct-numbers-on-board) |
