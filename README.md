@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0185-department-top-three-salaries) |
 | [0584-find-customer-referee](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/0584-find-customer-referee) |
+| [3475-dna-pattern-recognition](https://github.com/rishuchaurasiya4946-debug/DSA-by-Arpit/tree/master/3475-dna-pattern-recognition) |
 ## Sliding Window
 |  |
 | ------- |
